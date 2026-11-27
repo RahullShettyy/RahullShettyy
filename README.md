@@ -1,24 +1,68 @@
-# 💫 About Me:
-I’m a Computer Science Engineering student currently in my pre final year, driven by a deep passion for technology and software development. I thrive on turning innovative ideas into efficient, real-world solutions through clean, thoughtful code. I enjoy exploring new technologies, expanding my problem-solving skills, and building projects that challenge my creativity and technical understanding.<br><br>🔍 I’m constantly learning and experimenting with languages, tools, and frameworks that enhance my ability to build impactful applications.<br><br>📌 I’m actively seeking opportunities to collaborate on real projects, contribute to open-source, and gain hands-on experience in software development roles or internships.<br><br>💡 I’m particularly interested in areas like web development, software engineering, and emerging tech trends that solve real problems.<br><br>🌱 Always eager to connect — feel free to reach out to discuss opportunities, ideas, or tech conversations!
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=rahullshettyy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211108541%3Fu%3Da755893b02b625736e40e26bf07d81702bfd8bdf%26v%3D4" alt="rahullshettyy hero visual" />
+</p>
 
+<p align="center"><b>Sriranga S B</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Rahullshettyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Sriranga S B]([https://www.linkedin.com/in/sriranga10/](https://www.linkedin.com/in/sriranga10/))) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulshree.1025@gmail.com) 
+<p align="center"><a href="https://github.com/rahullshettyy">GitHub</a></p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahullshettyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahullshettyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullshettyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahullshettyy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=rahullshettyy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211108541%3Fu%3Da755893b02b625736e40e26bf07d81702bfd8bdf%26v%3D4" alt="rahullshettyy projects visual" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahullshettyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- [ThinkMIT](https://github.com/RahullShettyy/ThinkMIT) · ★ 1
+- [rocketride-server](https://github.com/RahullShettyy/rocketride-server) · ★ 1 — High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, a
+- [Amazon_clone_front_page](https://github.com/RahullShettyy/Amazon_clone_front_page) · ★ 1
+- [Profile-Generator](https://github.com/RahullShettyy/Profile-Generator) · ★ 1
+- [rahul](https://github.com/RahullShettyy/rahul) · ★ 1
+- [Simple_toy_problem](https://github.com/RahullShettyy/Simple_toy_problem) · ★ 0
 
----
-[![](https://visitcount.itsvg.in/api?id=Rahullshettyy&icon=0&color=0)](https://visitcount.itsvg.in)
+</details>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=rahullshettyy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211108541%3Fu%3Da755893b02b625736e40e26bf07d81702bfd8bdf%26v%3D4" alt="rahullshettyy stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>11</b> public repositories, <b>5</b> stars, <b>78</b> contributions in the last year, a longest streak of <b>3</b> days and <b>13</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=rahullshettyy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211108541%3Fu%3Da755893b02b625736e40e26bf07d81702bfd8bdf%26v%3D4" alt="rahullshettyy stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rahullshettyy&theme=neon" alt="rahullshettyy contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=rahullshettyy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211108541%3Fu%3Da755893b02b625736e40e26bf07d81702bfd8bdf%26v%3D4" alt="rahullshettyy social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Sriranga S B · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
